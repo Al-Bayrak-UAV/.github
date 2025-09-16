@@ -1,9 +1,17 @@
-# ALBayraq UAV
+<div align="center">
 
-<img width="927" height="470" alt="Screenshot 2025-09-17 021820" src="https://github.com/user-attachments/assets/bdb703f9-2b27-41d3-a442-4d8bdee00f19" />
+# ALBayraq UAV  
 
+<img width="927" height="470" alt="ALBayraq UAV" src="https://github.com/user-attachments/assets/bdb703f9-2b27-41d3-a442-4d8bdee00f19" />
 
-Al-Bayraq is a tactical V-Tail surveillance UAV built to meet BVLOS (Beyond Visual Line of Sight) regulations for sub-25 kg aircraft. It integrates advanced safety and reliability features, including crash-tolerant landing gear, µs-level power failover, and dual-band C2 redundancy.
+<br><br>
+
+Al-Bayraq is a tactical V-Tail surveillance UAV built to meet **BVLOS (Beyond Visual Line of Sight)** regulations for sub-25 kg aircraft.  
+It integrates advanced safety and reliability features, including crash-tolerant landing gear, µs-level power failover,  
+and dual-band C2 redundancy.  
+
+</div>
+
 
 ------------
 
